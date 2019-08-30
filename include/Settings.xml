@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings description="settings root description">
+  <!--settings for the options menu-->
+  <options description="game options">
+    <resolution description="resolution in 16:9 ratio">4</resolution>
+    <volume description="volume setting">0</volume>
+  </options>
+  <!--settings for the player character-->
+  <player description="player settings">
+    <health description="player health setting">100</health>
+  </player>
+</settings>
