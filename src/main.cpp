@@ -29,7 +29,7 @@ int main()
 	else
 		std::cout << "file is NOT empty\n";
 
-	std::cout << "setRes: " << setRes << std::endl;
+	//std::cout << "setRes: " << setRes << std::endl;
 	std::cout << "Child_value(): " << settingsXML.child_value() << std::endl;
 	std::cout << "Child 'options': " << settingsXML.child("options") << std::endl;
 	std::cout << "Child 'options' name: " << settingsXML.child("options").name() << std::endl;

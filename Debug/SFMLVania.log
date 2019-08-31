@@ -1,2 +1,5 @@
 ﻿  main.cpp
-  SFMLVania.vcxproj -> C:\Users\clefs\Documents\Visual Studio Projects\SFMLVania\Debug\SFMLVania.exe
+  TextureLoader.cpp
+C:\Users\clefs\Documents\Visual Studio Projects\SFMLVania\SFMLVania\TextureLoader.cpp(23,39): error C2228:  left of '.size' must have class/struct/union
+  Generating Code...
+C:\Users\clefs\Documents\Visual Studio Projects\SFMLVania\SFMLVania\TextureLoader.cpp(23,39): message :  type is 'sf::Texture [10]'
