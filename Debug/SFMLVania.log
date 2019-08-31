@@ -1,5 +1,8 @@
-﻿  main.cpp
+﻿  FileLoader.cpp
+C:\Users\clefs\Documents\Visual Studio Projects\SFMLVania\SFMLVania\FileLoader.cpp(15,72): error C2664:  'pugi::xml_parse_result pugi::xml_document::load_file(const wchar_t *,unsigned int,pugi::xml_encoding)': cannot convert argument 1 from 'std::string' to 'const char *'
+  Player.cpp
+  main.cpp
   TextureLoader.cpp
-C:\Users\clefs\Documents\Visual Studio Projects\SFMLVania\SFMLVania\TextureLoader.cpp(23,39): error C2228:  left of '.size' must have class/struct/union
+C:\Users\clefs\Documents\Visual Studio Projects\SFMLVania\SFMLVania\FileLoader.cpp(15,64): message :  No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
   Generating Code...
-C:\Users\clefs\Documents\Visual Studio Projects\SFMLVania\SFMLVania\TextureLoader.cpp(23,39): message :  type is 'sf::Texture [10]'
+C:\Users\clefs\Documents\Visual Studio Projects\SFMLVania\SFMLVania\TextureLoader.cpp(23,20): warning C4018:  '<': signed/unsigned mismatch
